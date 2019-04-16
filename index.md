@@ -1,4 +1,4 @@
-更新于 2019/04/14
+更新于 2019/04/16
 
 ## 说明
 1. 把 "censer:" 换成 "https://"
@@ -9,7 +9,7 @@
 censor:houhuayuan-pink
 
 ## 黑沼泽俱乐部
-censor:zhaoze-club
+censor:zhaoze-party
 
 ## 组织和联系方式
 

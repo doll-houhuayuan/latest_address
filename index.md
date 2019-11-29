@@ -9,7 +9,7 @@
 censor:houhuayuan-pink
 
 ## 黑沼泽俱乐部
-censor:zhaoze-party
+censor:zhaoze-icu
 
 ## 组织和联系方式
 

@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://houhuayuan.art"
+redirect_to: "https://houhuayuan.xyz"
 ---

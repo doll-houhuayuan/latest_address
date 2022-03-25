@@ -10,7 +10,7 @@
 3. 收藏本页面以获取最新地址
 
 ## 蔷薇后花园
-censor:houhuayuan-xyz
+censor:houhuayuan-vip
 
 ## 黑沼泽俱乐部
 censor:zhaoze-art

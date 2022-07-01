@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://zhaoze.art"
+redirect_to: "https://zhaoze.vip"
 ---

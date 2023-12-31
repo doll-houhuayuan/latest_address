@@ -2,7 +2,7 @@
 
 ## 不要使用国内浏览器
 1. 经证实，国内浏览器如 UC 等会在用户未主动同意的情况下屏蔽部分“不合规”网站，后花园和黑沼泽就在内。
-2. 如果下文的地址无法访问，iOS 设备用户请使用 Safari，Android 设备用户请使用 [Chrome](https://android.myapp.com/myapp/detail.htm?apkName=com.android.chrome)，[Firefox](https://android.myapp.com/myapp/detail.htm?apkName=org.mozilla.firefox) 或 [Opera](https://android.myapp.com/myapp/detail.htm?apkName=com.opera.browser.beta) 等任意国际领先的知名浏览器访问。
+2. 如果下文的地址无法访问，iOS 设备用户请使用 Safari，Android 设备用户请使用 [Chrome](https://sj.qq.com/appdetail/com.android.chrome)，[Firefox](https://sj.qq.com/appdetail/org.mozilla.firefox) 或 [Edge](https://sj.qq.com/appdetail/com.microsoft.emmx) 等任意国际领先的知名浏览器访问。
 
 ## 说明
 1. 把 "censer:" 换成 "https://"

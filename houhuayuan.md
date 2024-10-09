@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://houhuayuan.vip"
+redirect_to: "https://houhuayuan.pro"
 ---

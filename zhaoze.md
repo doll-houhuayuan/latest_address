@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://zhaoze.pro"
+redirect_to: "https://zhaoze.net"
 ---

@@ -5,7 +5,7 @@
 2. 如果下文的地址无法访问，iOS 设备用户请使用 Safari，Android 设备用户请使用 [Chrome](https://sj.qq.com/appdetail/com.android.chrome)，[Firefox](https://sj.qq.com/appdetail/org.mozilla.firefox) 或 [Edge](https://sj.qq.com/appdetail/com.microsoft.emmx) 等任意国际领先的知名浏览器访问。
 
 ## 说明
-1. 把 "censer:" 换成 "https://"
+1. 把 "censor:" 换成 "https://"
 2. 把 "-" 换成 "."
 3. 收藏本页面以获取最新地址
 

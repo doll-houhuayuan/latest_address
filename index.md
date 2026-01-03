@@ -22,4 +22,4 @@ censor:zhaoze-net
 ## 组织和联系方式
 
 - 站长 Telegram: [@iamisamu](https://t.me/iamisamu)
-- 真·蔷薇后花园 Telegram 群: [@inhouhuayuan](https://t.me/shin_houhuayuan)
+- 真·蔷薇后花园 Telegram 群: [@shin_houhuayuan](https://t.me/shin_houhuayuan)
